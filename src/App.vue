@@ -26,6 +26,10 @@ export default {
 </script>
 
 <style>
+img {
+    border: none;
+}
+
 .footer h2 {
     position: absolute;
     left: 0;

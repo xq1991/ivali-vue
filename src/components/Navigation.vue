@@ -14,7 +14,7 @@
                 <p>证劵名称：瓦力科技</p>
             </div>
             <a target="_blank" href="http://www.miitbeian.gov.cn">粤ICP备12043897号-3</a>
-            <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44190002000821" style="margin-top: 0;"><img style="border:none;" src="http://www.999.com/cpic/bei.png">粤公网安备 44190002000821号</a>
+            <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44190002000821" style="margin-top: 0;"><img src="http://www.999.com/cpic/bei.png">粤公网安备 44190002000821号</a>
             <p class="copy">&copy; Copyright 2017 瓦力科技</p>
         </div>
     </div>
