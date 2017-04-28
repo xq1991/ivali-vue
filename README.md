@@ -20,5 +20,5 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # ivali-vue
-node app.js 启动服务。
+node app.js 启动服务。(先npm run build产生静态文件)
 

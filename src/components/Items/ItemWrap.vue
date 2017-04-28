@@ -30,7 +30,9 @@ export default {
     position: absolute;
     left: 0;
     right: 0;
-    margin: 195px auto 0;
+    top: 0;
+    bottom: 70px;
+    margin: auto;
     width: 82%;
     height: 500px;
     background-color: rgba(255, 255, 255, .9);
